@@ -1,0 +1,32 @@
+{
+  "ATTRS": {
+    "": {
+      "st_atime": 1515972530.5402248,
+      "st_ctime": 1515972530.5402248,
+      "st_mode": 16386,
+      "st_mtime": 1515972530.5402248,
+      "st_nlink": 2
+    },
+    "__FSDATA__": {
+      "st_atime": 1515972530.54025,
+      "st_ctime": 1515972530.54025,
+      "st_mode": 33204,
+      "st_mtime": 1515972530.54025,
+      "st_nlink": 1,
+      "st_size": 593
+    }
+  },
+  "DATA": {},
+  "EXTRAATTRS": {},
+  "FSMETA": {
+    "DEFAULTUMASK": 2
+  },
+  "LOOKUPMAP": {
+    "": {
+      "ENTITYTYPE": "FOLDERS"
+    },
+    "__FSDATA__": {
+      "ENTITYTYPE": "FILES"
+    }
+  }
+}
